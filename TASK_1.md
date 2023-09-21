@@ -63,7 +63,7 @@ Enter the number: 6
 
 # 4. Generate a Lower Triangle Matrix of column number with the number of rows and columns as given by the user.
 
-## Example Output
+## Example Output 1
 
 ```bash
 Enter the number: 6
@@ -75,10 +75,25 @@ Enter the number: 6
 123456
 ```
 
+## Example Output 2
+
+```bash
+Enter the number: 9
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+```
+
 
 # 5. Generate a Upper Triangle Matrix of row number with the number of rows and columns as given by the user.
 
-## Example Output 
+## Example Output 1
 
 ```bash
 Enter the number: 6
@@ -88,5 +103,19 @@ Enter the number: 6
    444
     55
      6
+```
+## Example Output 2
+
+```bash
+Enter the number: 9
+111111111
+ 22222222
+  3333333
+   444444
+    55555
+     6666
+      777
+       88
+        9
 ```
 
